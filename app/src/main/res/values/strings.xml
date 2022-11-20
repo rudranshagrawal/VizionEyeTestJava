@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VizionEyeTestJava</string>
+    <string name="ble_rationale">Required for BLE Function</string>
+</resources>
